@@ -8,11 +8,12 @@ header{}
     background-color: #d0d0d1;
     padding: 20px 10px;
   } 
+  /* Here I did the logo and banner*/
 
 .logo {
     width: 8%;
 }
-
+/* Here I was working on font color and font aleign and font type */
 p{color:rgb(34, 46, 59) }
 
 p {
@@ -28,6 +29,8 @@ body {
     font-family: 'Courier New', monospace;
   }
   body {
+    /*Backround color and tryouts*/
+
     background-color: rgb(245, 233, 210);
   }
   h2 {
@@ -54,7 +57,8 @@ body {
         background: #eeeeee;
         font-family: 'Nunito', sans-serif;
     }
-}
+/*Finally the BEM*/
+
 .card {
     padding: 0 5em;
 }
@@ -65,7 +69,7 @@ body {
         width: 100%;
         backround: #4f536f;
     }
-   
+
 
     .card__content {
         padding: 1.5em;
