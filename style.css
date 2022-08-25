@@ -48,12 +48,12 @@ body {
   p.dotted {border-style: dotted;}
   a:hover {
     color: rgb(24, 250, 201);
- 
+}
     body{
         display: -ms - grid;
         display: grid;
         place-content: center;
-        height: 100vh;
+      
         background: #eeeeee;
         font-family: 'Nunito', sans-serif;
     }
@@ -91,15 +91,14 @@ body {
     background: #838386;
     border-radius: .3em;
     font-size: .85em;
-
-    .card__item- - active {
+}
+    .card__item--active {
         background: #d444d4d4;
         font-weight: bold;
     }
 
 
    
-}
 
     
  
